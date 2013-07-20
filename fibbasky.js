@@ -29,6 +29,6 @@ var firstkfib = function(k) {
 var fmt = function(arr) {
     return arr.join(" ");
 };
-var k = 20;
+var k = 30;
 console.log("firstkfib(" + k + ")");
 console.log(fmt(firstkfib(k)));
